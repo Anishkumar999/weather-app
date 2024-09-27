@@ -121,10 +121,15 @@ If you want another city details you can type in input box and click on searchIc
 Deploy it's project on github
 
 ## Deployment:
-git init:- Using it's command to intialized the project in git
+git init:- Using it's command to intialized the project in git.
+
 git add. :- Using it's command to add the all of the file in git.
+
 git commit -m "add commit" :- Using it's command to commit the project in git.
+
 git remote add origin <repository-name> :- Using it's command to set the remote or repository where the project link is used for.
+
 git push -u origin main :- Using it's command to push all of the file directory in git hub remote or repository.
+
 npm install gh-pages --save-dev :- install the library in the project for deployment and then deploy and predeploy functionalities in script directory(package.json file), and last of the coomand using or run in terminal npm run deploy.
 
